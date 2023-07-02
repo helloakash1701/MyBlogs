@@ -6,7 +6,7 @@ Feel free to explore the blogs and dive into the fascinating world of technology
 
 ## Blogs List
 
-1. [Title of Blog 1](blog1.md): Short description or key highlights of the blog.
+1. From Concept to Completion: Unveiling the Software Development Life Cycle(https://mishrakash.hashnode.dev/from-concept-to-completion-unveiling-the-software-development-life-cycle): Learn how to supercharge your software development process with Agile methodology. Discover techniques to enhance efficiency, collaboration, and speed, resulting in high-quality software solutions. Unleash the power of Agile and take your development projects to new heights.
 2. [Title of Blog 2](blog2.md): Short description or key highlights of the blog.
 3. [Title of Blog 3](blog3.md): Short description or key highlights of the blog.
    ...
