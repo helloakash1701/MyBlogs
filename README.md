@@ -21,6 +21,6 @@ I value your feedback and would love to hear your thoughts on the blogs. If you 
 
 ## Stay Connected
 
-To stay updated with my latest blog posts, you can follow me on [Twitter](https://twitter.com/your_twitter_handle) or subscribe to my newsletter [here](link_to_newsletter).
+To stay updated with my latest blog posts, you can follow me on [Twitter]([https://twitter.com/your_twitter_handle](https://twitter.com/AkashMi65118169)) or subscribe to my newsletter [here]([link_to_newsletter](https://mishrakash.hashnode.dev/newsletter)).
 
 Thank you for visiting my Blogs repository. Enjoy the read and happy coding! 🚀✨
