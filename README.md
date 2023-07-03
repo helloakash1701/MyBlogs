@@ -7,7 +7,9 @@ Feel free to explore the blogs and dive into the fascinating world of technology
 ## Blogs List
 
 1. From Concept to Completion: Unveiling the Software Development Life Cycle(https://mishrakash.hashnode.dev/from-concept-to-completion-unveiling-the-software-development-life-cycle): Learn how to supercharge your software development process with Agile methodology. Discover techniques to enhance efficiency, collaboration, and speed, resulting in high-quality software solutions. Unleash the power of Agile and take your development projects to new heights.
-2. [Title of Blog 2](blog2.md): Short description or key highlights of the blog.
+2. Mastering Jira: A Step-by-Step Tutorial for Effective Project Management(blog2.md): Hey everyone! 📢 I just published a new blog that I think you'll find really interesting. It's all about Agile project management, specifically focusing on the Scrum framework and how it can revolutionize your team's productivity. 🚀
+
+I also dive into the powerful project management tool, Jira, and how it can enhance your Scrum implementation. If you're looking to level up your Agile game, this blog is a must-read! 💡
 3. [Title of Blog 3](blog3.md): Short description or key highlights of the blog.
    ...
 
